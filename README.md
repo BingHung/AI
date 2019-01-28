@@ -29,3 +29,6 @@ python fhi_test.py --graph=c:\tmp\output_graph.pb --labels=c:\tmp\output_labels.
 
 --imagenet/inception_resnet_v2/classification  <br />
 https://tfhub.dev/google/imagenet/inception_resnet_v2/classification/1
+
+## GAN Reference
+* https://towardsdatascience.com/training-gans-using-google-colaboratory-f91d4e6f61fe
